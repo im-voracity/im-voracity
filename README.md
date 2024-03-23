@@ -1,4 +1,4 @@
-<img style="z-index: 100;" align="right" height="590em" src="https://raw.githubusercontent.com/gist/im-voracity/25032c4c6238ac92084e6681785b421c/raw/2b92d45e85a9b823422cef07a766aac56bf33967/githubcard.svg"/>
+<img style="z-index: auto; margin: 0 1rem;" align="right" height="590em" src="https://raw.githubusercontent.com/gist/im-voracity/25032c4c6238ac92084e6681785b421c/raw/2b92d45e85a9b823422cef07a766aac56bf33967/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tenório</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvoracity&color=yellow" alt="Profile views" /> </p> -->
 
