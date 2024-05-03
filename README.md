@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently building [Hotmart Python](https://github.com/im-voracity/hotmart-python)
 
-- 🔭 I’m currently working at [Begin Social Media](https://instagram.com/beginsocialmedia)
+- 🔭 I’m currently working freelancing as Data Engineer
 
 - 💬 Ask me about **Python, Airbyte, SQL, Django, PowerBI**
 
