@@ -1,27 +1,27 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tenório</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvoracity&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Data Analyst & Hobbyst developer interested in building python libraries and APIs
+- 🔥 Data Engineer monstly interested in building python libraries and APIs
 
 - 🌱 I’m currently building [Hotmart Python](https://github.com/im-voracity/hotmart-python)
 
 - 🔭 I’m currently working freelancing as Data Engineer
 
-- 💬 Ask me about **Python, Airbyte, SQL, Django, PowerBI**
+- 💬 Ask me about **Python, Airbyte, Airflow, SQL, Django**
 
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
 ![PyCharm](https://img.shields.io/badge/-PyCharm-05122A?style=flat&logo=pycharm)&nbsp;
+![DataGrip](https://img.shields.io/badge/-DataGrip-05122A?style=flat&logo=datagrip)&nbsp;
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-05122A?style=flat&logo=apache-airflow)&nbsp;
 ![Airbyte](https://img.shields.io/badge/-Airbyte-05122A?style=flat&logo=airbyte)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![BigQuery](https://img.shields.io/badge/-BigQuery-05122A?style=flat&logo=googlebigquery)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![dbt](https://img.shields.io/badge/-dbt-05122A?style=flat&logo=dbt)&nbsp;
 ![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![FastAPI](https://img.shields.io/badge/-FastAPI-05122A?style=flat&logo=fastapi)&nbsp;
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
