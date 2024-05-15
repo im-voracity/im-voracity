@@ -1,11 +1,11 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Matheus Tenório</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=imvoracity&color=yellow" alt="Profile views" /> </p> -->
 
-- 🔥 Data Engineer mostly interested in building python libraries and APIs
+- 🔥 Passionate developer mostly interested in building python libraries and APIs
 
 - 🌱 I’m currently building [Hotmart Python](https://github.com/im-voracity/hotmart-python)
 
-- 🔭 I’m currently working freelancing as Data Engineer
+- 🔭 I’m currently working as a Data Engineer
 
 - 💬 Ask me about **Python, Airbyte, Airflow, SQL, Django**
 
